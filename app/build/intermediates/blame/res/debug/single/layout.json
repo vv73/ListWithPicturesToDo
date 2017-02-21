@@ -1,0 +1,14 @@
+[
+    {
+        "merged": "C:\\Users\\vv\\Desktop\\DBGame2\\app\\build\\intermediates\\res\\merged\\debug\\layout\\rowlayout.xml",
+        "source": "C:\\Users\\vv\\Desktop\\DBGame2\\app\\src\\main\\res\\layout\\rowlayout.xml"
+    },
+    {
+        "merged": "C:\\Users\\vv\\Desktop\\DBGame2\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_ext_results.xml",
+        "source": "C:\\Users\\vv\\Desktop\\DBGame2\\app\\src\\main\\res\\layout\\activity_ext_results.xml"
+    },
+    {
+        "merged": "C:\\Users\\vv\\Desktop\\DBGame2\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_player.xml",
+        "source": "C:\\Users\\vv\\Desktop\\DBGame2\\app\\src\\main\\res\\layout\\activity_player.xml"
+    }
+]

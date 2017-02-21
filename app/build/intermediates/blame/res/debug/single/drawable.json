@@ -1,0 +1,22 @@
+[
+    {
+        "merged": "C:\\Users\\vv\\Desktop\\DBGame2\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\unknownuser.png",
+        "source": "C:\\Users\\vv\\Desktop\\DBGame2\\app\\src\\main\\res\\drawable\\unknownuser.png"
+    },
+    {
+        "merged": "C:\\Users\\vv\\Desktop\\DBGame2\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\ic_launcher.png",
+        "source": "C:\\Users\\vv\\Desktop\\DBGame2\\app\\src\\main\\res\\drawable\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\Users\\vv\\Desktop\\DBGame2\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\smallgreen.png",
+        "source": "C:\\Users\\vv\\Desktop\\DBGame2\\app\\src\\main\\res\\drawable\\smallgreen.png"
+    },
+    {
+        "merged": "C:\\Users\\vv\\Desktop\\DBGame2\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\green.png",
+        "source": "C:\\Users\\vv\\Desktop\\DBGame2\\app\\src\\main\\res\\drawable\\green.png"
+    },
+    {
+        "merged": "C:\\Users\\vv\\Desktop\\DBGame2\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\gray.png",
+        "source": "C:\\Users\\vv\\Desktop\\DBGame2\\app\\src\\main\\res\\drawable\\gray.png"
+    }
+]
